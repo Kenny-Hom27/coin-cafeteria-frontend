@@ -12,7 +12,7 @@ OS X & Linux:
 npm install
 ```
 
--Back end (Ruby)
+- Back end (Ruby)
 ```sh
 bundle install
 ```
