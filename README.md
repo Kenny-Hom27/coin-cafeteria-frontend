@@ -7,8 +7,14 @@ Youtube demonstration - https://www.youtube.com/watch?v=ExSJFLJBlDg&feature=yout
 
 OS X & Linux:
 
+- Front end (Javascript)
 ```sh
 npm install
+```
+
+-Back end (Ruby)
+```sh
+bundle install
 ```
 
 ## How to Use!
