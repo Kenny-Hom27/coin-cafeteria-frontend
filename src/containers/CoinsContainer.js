@@ -22,7 +22,7 @@ class CoinsContainer extends React.Component {
     fetch('http://localhost:3000/coins/')
     .then(res => res.json())
     .then(json => {
-      this.setState({coins: json})
+      this.setState({coins: json.slice(0,30)})
     })
   }
 

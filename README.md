@@ -1,17 +1,49 @@
-Welcome to Coin Cafeteria
+# Coin Cafeteria
+>Welcome to Coin Cafeteria, where you can keep track of your favorite crypto coins!
 
-This project was created using React/Javascript in the front end and Ruby on Rails in the back end.
+Youtube demonstration - https://www.youtube.com/watch?v=ExSJFLJBlDg&feature=youtu.be
 
-To start , you need to either create a user/ or login to a current user.
+## Installation
 
-Once logged in, you will see a list of cryptocurrencies.
+OS X & Linux:
 
-You can sort these currencies by either name, price, or percent change.
+```sh
+npm install
+```
 
-You can search for a coin by the name as well.
+## How to Use!
 
-You can add coins or remove coins from your favorites.
+- Log In with a new/old Username/Password
 
-You can click the Show More Info tab to see news articles and more information about a certain coin.
+![login-image][login-image]
 
-Thanks for checking out my website!
+- Use the tool bars to help select and sort your favorite cyrpto coins.
+
+![mainscreen-image][mainscreen-image]
+
+- Click More Info to see more info about the coins!
+
+![moreinfo-image][moreinfo-image]
+
+
+## Built With
+
+- React in Front end
+- Ruby on Rails in Back end
+
+## Meta
+
+[https://github.com/Kenny-Hom27/github-link](https://github.com/Kenny-Hom27)
+
+## Contributing
+
+1. Fork it (<https://github.com/yourname/yourproject/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+<!-- Markdown link & img dfn's -->
+[login-image]: ./screenshots/login.png
+[mainscreen-image]: ./screenshots/mainscreen.png
+[moreinfo-image]: ./screenshots/moreinfo.png
